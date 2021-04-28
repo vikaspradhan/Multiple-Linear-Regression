@@ -1,3 +1,2 @@
 # Multiple-Linear-Regression
-Applying sklearn library to implement our Multiple linear regression model.
-Here no. of independent variables are more than 1
+Multiple linear regression (MLR), also known simply as multiple regression, is a statistical technique that uses several explanatory variables to predict the outcome of a response variable. The goal of multiple linear regression (MLR) is to model the linear relationship between the explanatory (independent) variables and response (dependent) variable. 
